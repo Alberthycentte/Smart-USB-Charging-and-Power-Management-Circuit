@@ -21,4 +21,4 @@ Compact and efficient PCB layout
 
 Applications
 
-Ideal for portable electronics, sensor modules, or any embedded system requiring a stable power supply with automatic source selection. 
+This is deal for portable electronics, sensor modules, or any embedded system requiring a stable power supply with automatic source selection. 
